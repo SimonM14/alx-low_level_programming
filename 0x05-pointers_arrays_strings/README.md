@@ -1,4 +1,4 @@
-0x05-Strings, arrays and pointers
+0x04 - Strings, arrays and pointers
 
 0-reset_to_98.c is a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
